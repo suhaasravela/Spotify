@@ -66,7 +66,7 @@ const Container = styled.div`
       h6 {
         color: #b3b3b3;
         gap: 0.5rem;
-        align-items: center;
+        align-items: center ;
       }
     }
   }
